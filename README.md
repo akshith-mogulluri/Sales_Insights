@@ -6,3 +6,5 @@
 the data and make informed decisions.
 
 • This dashboard could help in increasing the revenue at least by 7% in the next quarter. 
+
+Tools and Methods Used: SQL, PowerBI, ETL, Data Visualization, Star schema.
