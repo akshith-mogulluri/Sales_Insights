@@ -1,3 +1,5 @@
+# Sales Insights – Brick & motor business
+
 About the Project:
 
 The Sales Insights Data Analysis Project amins to Unlock the sales insights of Brick & Motor Business that are not visible before for the sales team to make a decision support and also to automate the visualization to reduce the manual time spent on data gathering. This data is provide by codebasics which contains 148K rows and 10 columns of transaction data.
